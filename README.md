@@ -29,6 +29,7 @@ For the "reproduce_HAIM_experiments" folder: For both experiments, we were very 
 
 ## Project Tree
 
+```
 |--- data                                   <- Directory where you should place your embeddings CSV file
 |
 |--- explore_pycaret_library 
@@ -43,3 +44,4 @@ For the "reproduce_HAIM_experiments" folder: For both experiments, we were very 
 |     |--- Edema.ipynb                      <- Notebook for predicting Edema chest pathology
 |     |--- Fracture.ipynb                   <- Notebook for predicting Fracture chest pathology
 |     |--- Cardiomegaly.ipynb               <- Notebook for predicting Cardiomegaly chest pathology
+```
